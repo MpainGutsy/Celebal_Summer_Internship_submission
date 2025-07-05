@@ -10,7 +10,7 @@ Welcome to the Power BI project workspace! This repository documents interactive
 |-----|---------------------|------|
 | **Day 18** | **Initial Project Report** – Project distribution, RLS filtering, anomaly tracking | [View Report 🔗](https://app.powerbi.com/links/PjXOVRoulW?ctid=12b4fbf9-dea8-4490-bede-9cc40309ad61&pbi_source=linkShare) |
 | **Day 19** | **Enhanced Insights** – Key influencers, decomposition tree, NLP-trained Q&A | [View Report 🔗](https://app.powerbi.com/links/PjXOVRoulW?ctid=12b4fbf9-dea8-4490-bede-9cc40309ad61&pbi_source=linkShare) |
-| **Day 20** | **Final Optimized Report** – Chart optimization, hierarchy visual, NLP updates | [View Report 🔗]([https://app.powerbi.com/links/PjXOVRoulW?ctid=12b4fbf9-dea8-4490-bede-9cc40309ad61&pbi_source=linkShare](https://app.powerbi.com/links/MA4JpS0vzX?ctid=12b4fbf9-dea8-4490-bede-9cc40309ad61&pbi_source=linkShare)) |
+| **Day 20** | **Final Optimized Report** – Chart optimization, hierarchy visual, NLP updates | [View Report 🔗](https://app.powerbi.com/links/MA4JpS0vzX?ctid=12b4fbf9-dea8-4490-bede-9cc40309ad61&pbi_source=linkShare) |
 
 ---
 
